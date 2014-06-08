@@ -41,5 +41,5 @@
     <integer name="valueDeathRay">-1</integer>
 
     <!-- If the device supports high brightness mode, enable this -->
-    <bool name="hasHighBrightness">true</bool>
+    <add-resource type="bool" name="hasHighBrightness">true</add-resource>
 </resources>
